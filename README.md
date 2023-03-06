@@ -8,4 +8,4 @@ Puede utilizarse en ordenadores y servidores. Está orientado al usuario promedi
 
 # Referencias
 
-    - "Ubuntu". Wikipedia. Disponible en: [https://es.wikipedia.org/wiki/Licencia_de_software](https://es.wikipedia.org/wiki/Ubuntu)  (Accedido: 6 de marzo, 2023).
+- "Ubuntu". Wikipedia. Disponible en: [https://es.wikipedia.org/wiki/Licencia_de_software](https://es.wikipedia.org/wiki/Ubuntu)  (Accedido: 6 de marzo, 2023).

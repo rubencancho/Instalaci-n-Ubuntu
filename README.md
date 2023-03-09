@@ -34,6 +34,10 @@ Elegimos del tipo de disco duro virtual de tipo VDI (Virtual Disk Image):
 
 ![Virtualbox5](./virtualbox5.png)
 
+Le indicamos que el fichero del disco duro virtual crezca dinámicamente, a medida que necesitemos más espacio:
+
+![Virtualbox6](./virtualbox6.png)
+
 
 # Referencias
 

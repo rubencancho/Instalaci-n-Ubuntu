@@ -18,6 +18,10 @@ Arrancamos Virtualbox y hacemos click en "Nueva":
 
 ![Virtualbox1](./virtualbox1.png)
 
+Escribimos el nombre de la máquina virtual, en nuestro caso "Ubuntu". Vemos que se selecciona automáticamente el tipo de sistema a "Linux" y la versión a "Ubuntu 64-bit".
+
+![Virtualbox2](./virtualbox2.png)
+
 # Referencias
 
 - "Ubuntu". Wikipedia. Disponible en: [https://es.wikipedia.org/wiki/Ubuntu](https://es.wikipedia.org/wiki/Ubuntu)  (Accedido: 6 de marzo, 2023).

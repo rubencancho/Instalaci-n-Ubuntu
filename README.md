@@ -26,7 +26,7 @@ Configuramos el tamaño de memoria para la máquina virtual. Para Ubuntu 22.04 s
 
 ![Virtualbox3](./virtualbox3.png)
 
-Creamos un nuevo disco duro virtual, que se creará como un archivo, y que tendrá un tamaño de 25 GB:
+Creamos un nuevo disco duro virtual:
 
 ![Virtualbox4](./virtualbox4.png)
 
@@ -38,6 +38,9 @@ Le indicamos que el fichero del disco duro virtual crezca dinámicamente, a medi
 
 ![Virtualbox6](./virtualbox6.png)
 
+Configuramos el tamaño del disco duro virtual a 25GB, ya que es el tamaño recomendado en la instalación de Ubuntu 22.04:
+
+![Virtualbox7](./virtualbox7.png)
 
 # Referencias
 

@@ -22,6 +22,11 @@ Escribimos el nombre de la máquina virtual, en nuestro caso "Ubuntu". Vemos que
 
 ![Virtualbox2](./virtualbox2.png)
 
+Configuramos el tamaño de memoria para la máquina virtual. Para Ubuntu 22.04 se recomiendan 4GB (4096MB):
+
+![Virtualbox3](./virtualbox3.png)
+
+
 # Referencias
 
 - "Ubuntu". Wikipedia. Disponible en: [https://es.wikipedia.org/wiki/Ubuntu](https://es.wikipedia.org/wiki/Ubuntu)  (Accedido: 6 de marzo, 2023).

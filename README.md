@@ -8,6 +8,10 @@ Puede utilizarse en ordenadores y servidores. Está orientado al usuario promedi
 
 # Proceso de instalación
 
+## Instalación de Virtualbox
+
+Descargaremos [Virtualbox](https://www.virtualbox.org/) para el sistema operativo de nuestro ordenador.
+
 ## Configuración de Virtualbox
 
 

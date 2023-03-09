@@ -30,6 +30,10 @@ Creamos un nuevo disco duro virtual, que se creará como un archivo, y que tendr
 
 ![Virtualbox4](./virtualbox4.png)
 
+Elegimos del tipo de disco duro virtual de tipo VDI (Virtual Disk Image):
+
+![Virtualbox5](./virtualbox5.png)
+
 
 # Referencias
 

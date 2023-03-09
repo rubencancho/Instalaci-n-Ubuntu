@@ -52,6 +52,11 @@ El siguiente paso es "montar" la ISO en el lector virtual de la máquina virtual
 
 ![Virtualbox9](./virtualbox9.png)
 
+Hacemos click en "Vacío" dentro del árbol "Controlador IDE", y posteriormente elegimos el archivo ISO desde el icono de "Unidad Óptica":
+
+![Virtualbox10](./virtualbox10.png)
+
+
 # Referencias
 
 - "Ubuntu". Wikipedia. Disponible en: [https://es.wikipedia.org/wiki/Ubuntu](https://es.wikipedia.org/wiki/Ubuntu)  (Accedido: 6 de marzo, 2023).

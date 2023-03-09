@@ -14,7 +14,9 @@ Descargaremos [Virtualbox](https://www.virtualbox.org/) para el sistema operativ
 
 ## Configuración de Virtualbox
 
+Arrancamos Virtualbox y hacemos click en "Nueva":
 
+![Virtualbox1](./virtualbox1.png)
 
 # Referencias
 

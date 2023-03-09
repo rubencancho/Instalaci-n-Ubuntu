@@ -42,6 +42,12 @@ Configuramos el tamaño del disco duro virtual a 25GB, ya que es el tamaño reco
 
 ![Virtualbox7](./virtualbox7.png)
 
+Ya tenemos creada la máquina virtual, solo nos falta introducir el disco virtual del sistema operativo:
+
+![Virtualbox8](./virtualbox8.png)
+
+Nos descargamos previamente el archivo ISO de la distribución Linux que queramos. En nuestro caso hemos elegido la distribución [Ubuntu](https://ubuntu.com/), en su versión 22.04.
+
 # Referencias
 
 - "Ubuntu". Wikipedia. Disponible en: [https://es.wikipedia.org/wiki/Ubuntu](https://es.wikipedia.org/wiki/Ubuntu)  (Accedido: 6 de marzo, 2023).

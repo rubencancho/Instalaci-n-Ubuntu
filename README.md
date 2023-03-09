@@ -56,6 +56,14 @@ Hacemos click en "Vacío" dentro del árbol "Controlador IDE", y posteriormente 
 
 ![Virtualbox10](./virtualbox10.png)
 
+Por último la damos a "Iniciar" en la máquina virtual y vemos como empieza a arrancar:
+
+## Instalación de Ubuntu
+
+Vemos la pantalla de Grub y elegimos la opción "Try or Install Ubuntu", y le damos a la tecla "Enter":
+
+![Ubuntu1](./ubuntu1.png)
+
 
 # Referencias
 

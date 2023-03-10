@@ -68,6 +68,10 @@ Vemos la pantalla de Grub y elegimos la opción "Try or Install Ubuntu", y le da
 
 ![Ubuntu1](./ubuntu1.png)
 
+Elegimos el idioma y hacemos click en "Instalar Ubuntu":
+
+![Ubuntu2](./ubuntu2.png)
+
 
 # Referencias
 

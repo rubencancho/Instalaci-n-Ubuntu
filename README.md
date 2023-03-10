@@ -76,6 +76,10 @@ Elegimos la distribución de teclado:
 
 ![Ubuntu5](./ubuntu5.png)
 
+Elegimos el tipo de instalación y si actualizaremos o instalaremos software de terceros:
+
+![Ubuntu6](./ubuntu6.png)
+
 # Referencias
 
 - "Ubuntu". Wikipedia. Disponible en: [https://es.wikipedia.org/wiki/Ubuntu](https://es.wikipedia.org/wiki/Ubuntu)  (Accedido: 6 de marzo, 2023).

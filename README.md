@@ -72,6 +72,9 @@ Elegimos el idioma y hacemos click en "Instalar Ubuntu":
 
 ![Ubuntu2](./ubuntu2.png)
 
+Elegimos la distribución de teclado:
+
+![Ubuntu5](./ubuntu5.png)
 
 # Referencias
 

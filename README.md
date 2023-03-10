@@ -80,6 +80,10 @@ Elegimos el tipo de instalación y si actualizaremos o instalaremos software de 
 
 ![Ubuntu6](./ubuntu6.png)
 
+Elegimos borrar todo el disco y que se instale Ubuntu como único sistema operativo:
+
+![Ubuntu7](./ubuntu7.png)
+
 # Referencias
 
 - "Ubuntu". Wikipedia. Disponible en: [https://es.wikipedia.org/wiki/Ubuntu](https://es.wikipedia.org/wiki/Ubuntu)  (Accedido: 6 de marzo, 2023).

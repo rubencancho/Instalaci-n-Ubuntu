@@ -56,6 +56,10 @@ Hacemos click en "Vacío" dentro del árbol "Controlador IDE", y posteriormente 
 
 ![Virtualbox10](./virtualbox10.png)
 
+Antes de arrancar configuramos la memoria de la tarjeta de vídeo al máximo posible, dentro de "Configuración" -> "Pantalla":
+
+![Virtualbox11](./virtualbox11.png)
+
 Por último la damos a "Iniciar" en la máquina virtual y vemos como empieza a arrancar:
 
 ## Instalación de Ubuntu

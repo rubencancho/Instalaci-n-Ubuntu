@@ -76,7 +76,7 @@ Elegimos la distribución de teclado:
 
 ![Ubuntu5](./ubuntu5.png)
 
-Elegimos el tipo de instalación y si actualizaremos o instalaremos software de terceros:
+Elegimos el tipo de instalación. En nuestro caso instalación mínima y le indicamos que instalaremos software de terceros:
 
 ![Ubuntu6](./ubuntu6.png)
 

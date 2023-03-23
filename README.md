@@ -90,10 +90,25 @@ Elegimos borrar todo el disco y que se instale Ubuntu como único sistema operat
 
 Para actualizar el sistema desde linea de comandos abriríamos una terminal (Gnome-Terminal) y escribiríamos los siguientes comandos:
 
+1. Actualizamos los índices de paquetes:
 
 ```
 sudo apt update
 ```
+
+2. Vemos la lista de paquetes que se pueden actualizar:
+
+```
+apt list --upgradable
+```
+
+3. Actualizamos los paquetes instalados que tienen nuevas versiones en los repositorios:
+
+```
+sudo apt upgrade
+```
+
+
 
 ## Actualización desde el interfaz gráfico
 

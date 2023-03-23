@@ -116,6 +116,23 @@ sudo apt upgrade
 
 ## Actualización desde el interfaz gráfico
 
+Abrimos la aplicación "Software Updater".
+![actualizacion_grafica_1](https://user-images.githubusercontent.com/79692984/227210929-21e55aca-f4b7-491a-87a6-4d67747e4260.png)
+
+Vemos como el "Software Update" comprueba las actualizaciones:
+![actualizacion_grafica_2](https://user-images.githubusercontent.com/79692984/227211023-afe0cfca-a6a8-4d13-846c-a411d969dc04.png)
+
+"Software Updater" nos informa de las actualizaciones y nos pregunta si queremos actualizar:
+![actualizacion_grafica_3](https://user-images.githubusercontent.com/79692984/227211154-05b188f8-782a-442f-979f-ed29b7be1c67.png)
+
+Por último se instalan las actualizaciones y debemos reiniciar el ordenador si nos lo pidiera:
+![actualizacion_grafica_4](https://user-images.githubusercontent.com/79692984/227211547-4609352e-5c34-489b-82c0-73686b8917a1.png)
+
+
+
+
+
+
 
 # Referencias
 

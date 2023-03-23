@@ -95,18 +95,22 @@ Para actualizar el sistema desde linea de comandos abriríamos una terminal (Gno
 ```
 sudo apt update
 ```
+![actualizacion_apt_1](https://user-images.githubusercontent.com/79692984/227209399-d76be58f-114d-4a69-8514-dddad1ccc610.png)
+
 
 2. Vemos la lista de paquetes que se pueden actualizar:
 
 ```
 apt list --upgradable
 ```
+![actualicacion_apt_2](https://user-images.githubusercontent.com/79692984/227209547-aa9977dc-1b85-4924-b523-cef8275dac3a.png)
 
 3. Actualizamos los paquetes instalados que tienen nuevas versiones en los repositorios:
 
 ```
 sudo apt upgrade
 ```
+![actualizacion_apt_3](https://user-images.githubusercontent.com/79692984/227209611-d4232a4e-9984-4bd5-b543-6596b4161eaf.png)
 
 
 

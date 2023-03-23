@@ -84,6 +84,20 @@ Elegimos borrar todo el disco y que se instale Ubuntu como único sistema operat
 
 ![Ubuntu7](./ubuntu7.png)
 
+# Actualización del sistema
+
+## Actualización desde linea de comandos
+
+Para actualizar el sistema desde linea de comandos abriríamos una terminal (Gnome-Terminal) y escribiríamos los siguientes comandos:
+
+
+```
+sudo apt update
+```
+
+## Actualización desde el interfaz gráfico
+
+
 # Referencias
 
 - "Ubuntu". Wikipedia. Disponible en: [https://es.wikipedia.org/wiki/Ubuntu](https://es.wikipedia.org/wiki/Ubuntu)  (Accedido: 6 de marzo, 2023).

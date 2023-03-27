@@ -161,8 +161,9 @@ sudo apt install obs-studio
 ```
 ![instalacion_5](https://user-images.githubusercontent.com/79692984/227884996-e4bc0ab4-ad92-4bf7-a735-862212d387a2.png)
 
+Por último arrancamos la aplicación buscando OBS en el cuadro de búsqueda de 'Activities':
 
-
+![instalacion_7](https://user-images.githubusercontent.com/79692984/227885645-c25a4f23-b6bf-4adb-9bcf-59eee5c62e3c.png)
 
 
 ## Mediante la herramienta synaptic

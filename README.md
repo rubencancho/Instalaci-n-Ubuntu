@@ -146,6 +146,9 @@ En segundo lugar nos dicen que añadamos el repositorio externo mediante la line
 ```
 sudo add-apt-repository ppa:obsproject/obs-studio
 ```
+![instalacion_3](https://user-images.githubusercontent.com/79692984/227883116-162e6062-9808-4f43-bcb0-f1ae4891d056.png)
+
+
 
 ## Mediante la herramienta synaptic
 

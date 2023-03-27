@@ -148,6 +148,20 @@ sudo add-apt-repository ppa:obsproject/obs-studio
 ```
 ![instalacion_3](https://user-images.githubusercontent.com/79692984/227883116-162e6062-9808-4f43-bcb0-f1ae4891d056.png)
 
+En tercer lugar actualizamos los índices de todos los repositorios:
+
+```
+sudo apt update
+```
+
+Por último instalamos OBS Studio:
+
+```
+sudo apt install obs-studio
+```
+![instalacion_6](https://user-images.githubusercontent.com/79692984/227884505-eb0510d5-7dd2-474c-b321-2ee97eeb7e14.png)
+
+
 
 
 ## Mediante la herramienta synaptic

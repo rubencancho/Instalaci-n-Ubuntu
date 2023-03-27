@@ -129,6 +129,17 @@ Por último se instalan las actualizaciones y debemos reiniciar el ordenador si 
 ![actualizacion_grafica_4](https://user-images.githubusercontent.com/79692984/227211547-4609352e-5c34-489b-82c0-73686b8917a1.png)
 
 
+# Instalación de software
+
+## Mediante la herramienta synaptic
+
+En primer lugar debemos comprobar que tenemos la herramienta instalada, podemos usar la siguiente linea de comandos para instalarla:
+
+```
+sudo apt install synaptic
+```
+![instalacion_1](https://user-images.githubusercontent.com/79692984/227879851-ebc011ea-b606-45ca-b3a8-6cc9196a50cc.png)
+
 
 
 

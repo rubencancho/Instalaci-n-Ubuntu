@@ -131,6 +131,22 @@ Por último se instalan las actualizaciones y debemos reiniciar el ordenador si 
 
 # Instalación de software
 
+Vamos a instalar la herramienta OBS Studio. Para ello seguiremos los pasos de la página web.
+
+En primer lugar instalamos los paquetes que necesita OBS, en concreto el paquete ffmpeg:
+
+```
+sudo apt install ffmpeg
+```
+![instalacion_2](https://user-images.githubusercontent.com/79692984/227881888-fb3eaf08-9772-45e4-8a8e-37e69e6fd838.png)
+
+
+En segundo lugar nos dicen que añadamos el repositorio externo mediante la linea de comandos:
+
+```
+sudo add-apt-repository ppa:obsproject/obs-studio
+```
+
 ## Mediante la herramienta synaptic
 
 En primer lugar debemos comprobar que tenemos la herramienta instalada, podemos usar la siguiente linea de comandos para instalarla:
@@ -140,7 +156,7 @@ sudo apt install synaptic
 ```
 ![instalacion_1](https://user-images.githubusercontent.com/79692984/227879851-ebc011ea-b606-45ca-b3a8-6cc9196a50cc.png)
 
-
+##
 
 
 

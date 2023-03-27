@@ -159,7 +159,8 @@ Por último instalamos OBS Studio:
 ```
 sudo apt install obs-studio
 ```
-![instalacion_6](https://user-images.githubusercontent.com/79692984/227884505-eb0510d5-7dd2-474c-b321-2ee97eeb7e14.png)
+![instalacion_5](https://user-images.githubusercontent.com/79692984/227884996-e4bc0ab4-ad92-4bf7-a735-862212d387a2.png)
+
 
 
 
